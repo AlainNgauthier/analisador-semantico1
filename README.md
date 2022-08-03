@@ -1,4 +1,4 @@
-## Trabalho 3 - Analisador Semântico 
+## Trabalho 3 e 4 - Analisador Semântico Parte 1 e 2
 Trabalho realizado no âmbito da disciplina Construção de Compiladores - UFSCar 2022/1, <br /> pelo aluno **Alain Gauthier N. Djamba (725921)**.
 
 ### Requisitos
